@@ -1,0 +1,4 @@
+emp name  destination
+
+11 rutik  hr
+ 
